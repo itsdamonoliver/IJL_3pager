@@ -1,0 +1,109 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  margin-top: -10px;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  background-image: url("Img/contemporary_china_2.png");
+}
+body {
+  font-family: 'Press Start 2P';
+}
+.Start {
+  width: 100%;
+  height: 170px;
+}
+#titles {
+  width: auto;
+  height: 100px;
+  margin: 80px auto;
+}
+.index_header {
+  height: 30px;
+  width: 500px;
+  margin: auto;
+  padding: 8px;
+  text-align: center;
+  border: solid silver;
+  background-color: #6441A4;
+  color: white;
+}
+.index_subheader {
+  height: 20px;
+  width: 300px;
+  margin: 20px auto;
+  padding: 5px;
+  text-align: center;
+  border: solid silver;
+  background-color: #6441A4;
+  color: white;
+}
+#nrdimg {
+  width: 100%;
+  height: 200px;
+  background-image: url("Img/Space-Invader1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.button_about {
+  width: 8em;
+  height: 2em;
+  background-color: #6441A4;
+  color: #fff;
+  border-radius: 3px;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.button_about:hover {
+  background-color: #ae84fb;
+}
+.button_portfolio {
+  width: 8em;
+  height: 2em;
+  background-color: #6441A4;
+  color: #fff;
+  border-radius: 3px;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.button_portfolio:hover{
+  background-color: #ae84fb;
+}
+.button_gallery {
+  width: 8em;
+  height: 2em;
+  background-color: #6441A4;
+  color: #fff;
+  border-radius: 3px;
+  padding: 3px;
+}
+.button_gallery:hover {
+  background-color: #ae84fb;
+}
+.button_group {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#picture_ian{
+  margin-left: -280px;
+  margin-top: 150px;
+  height: 100%;
+  width: 100%;
+}
+button {
+  cursor: pointer;
+}
+.mclovin {
+  margin: auto;
+  max-width: 150px;
+  max-height: 200px;
+  border-radius: 50%;
+  display: block;
+}
+.para {
+  width: 500px;
+  margin-left: 650px;
+  margin-top: -190px;
+}
