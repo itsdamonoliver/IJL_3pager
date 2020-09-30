@@ -41,7 +41,7 @@ body {
 }
 #nrdimg {
   width: 100%;
-  height: 200px;
+  height: 40vh;
   background-image: url("Img/Space-Invader1.jpg");
   background-size: cover;
   background-position: center;
